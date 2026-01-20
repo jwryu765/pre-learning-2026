@@ -44,7 +44,7 @@ IoT개발자 과정 사전학습 리포지토리
     
     - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg" width="400">
     - 이미지와 링크이 차이는 !로 시작하는지 밖에 없음
- 
+    - 웹 브라우저에서 이미지 복사, 붙여넣기 가능
     - <img width="703" height="463" alt="image" src="https://github.com/user-attachments/assets/27da9726-3bd5-4365-a286-2ddf9906def6" />
 
   4. 가로줄
