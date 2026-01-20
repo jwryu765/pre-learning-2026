@@ -76,7 +76,7 @@ IoT개발자 과정 사전학습 리포지토리
     - Git 설치 옵션은 기본 그대로 사용 가능(변경하지 말 것)
     - cmd, powershell 에서 `git --version`, `git -v`로 확인)
   2. Github Desktop 설치
-    - https://desktop.github.com/download/ 에서 다운돌드 클릭, 설치
+    - https://desktop.github.com/download/ 에서 다운로드 클릭, 설치
     - 계정 브라우저 연동
   3. 리포지토리 클론
     - Github Desktop 메뉴 Clone Repository 클릭
@@ -93,4 +93,15 @@ IoT개발자 과정 사전학습 리포지토리
   2. 픽픽 - https://picpick.net/
  
 - **파이썬** 개발환경 설정
-  1.
+  1. https://www.python.org/ 에서 Downloads의 `Python 3.14.2` 버튼 클릭
+  2. Add python.exe to PATH 체크 활성화 후
+  3. Installer > Customize installation 클릭
+  4. Documentation 체크 해제, for all users 체크 활성화 후 다음
+  5. Advanced Options 에서 Install Python 3.1x for all users 체크
+  6. 경로 변경 후 설치
+    <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/0a6c1fd9-9cfe-44c7-861f-ca142e1d3617" />
+
+  7. Setup was successful 에서 Disable path length limit 클릭(필수!)
+    <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/7568534f-18cb-4447-b20a-a835e7b9fd39" />
+
+- 프로그램 개발 개념
