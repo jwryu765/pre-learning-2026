@@ -27,12 +27,24 @@ IoT개발자 과정 사전학습 리포지토리
     ```
 
   3. 기본문법 - 링크, 이미지
+  
     ```markdown
     [네이버](https://naver.com)
 
     ![이미지](이미지URL)
+
+    ## 사이즈 조절 이미지
+    src : 이미지URL
+    width : 이미지넓이 픽셀단위 지정 
+    <img src="이미지URL" width="500">
     ```
     - [네이버](https://naver.com)
  
-    - ![환수사로고](https://camo.githubusercontent.com/964c6e7cf851b4607cddebae3c83e0f022a92f35fe16c3b22ec26bb0c3e292f2/68747470733a2f2f73736c2e707374617469632e6e65742f6d656c6f6e612f6c6962732f313532322f313532323032302f61613562343862376537663765316536643434635f32303235303130393137343135323633302e6a7067)
-  
+    - ![이미지](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg)
+    
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/960px-Cat_November_2010-1a.jpg" width="400">
+    - 이미지와 링크이 차이는 !로 시작하는지 밖에 없음
+ 
+    - <img width="703" height="463" alt="image" src="https://github.com/user-attachments/assets/27da9726-3bd5-4365-a286-2ddf9906def6" />
+
+  4.
