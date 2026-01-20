@@ -85,4 +85,12 @@ IoT개발자 과정 사전학습 리포지토리
 
 - Visual studio Code 설치
   1. https://code.visualstudio.com/ Download for Windows 버튼 클릭
-  2. 
+  2. 설치 `C:\DEV\IDE\`Microsoft VS Code`에 설치
+  3. Extensions > Korean Pack for Visual Code 설치 후 재시작
+ 
+- 추가 설치 프로그램
+  1. Notepad++ 에디터 - https://notepad-plus-plus.org/downloads/
+  2. 픽픽 - https://picpick.net/
+ 
+- **파이썬** 개발환경 설정
+  1.
